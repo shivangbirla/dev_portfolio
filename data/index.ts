@@ -107,7 +107,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Working with Shivang has been an absolute game-changer for our project. His ability to understand complex requirements and deliver robust, scalable solutions is unmatched. He’s a true professional who goes above and beyond to ensure the success of every project he takes on.",
+      "Shivang has been a key contributor to our project’s success. He effortlessly handles complex requirements and delivers scalable solutions. His professionalism and dedication to going the extra mile set him apart.",
     name: "Shashwat Mehrotra",
     title: "Director of Constituents AI",
   },
@@ -122,6 +122,12 @@ export const testimonials = [
       "Shivang transformed our vision into a fully functional product that exceeded our expectations. His attention to detail and commitment to quality made the entire development process smooth and efficient. I highly recommend him to anyone looking for a reliable and talented developer.",
     name: "Tushar Jain",
     title: "Director of Trishla Entertainment",
+  },
+  {
+    quote:
+      "Shivang played a crucial role in our frontend development. His skill in transforming complex requirements into smooth, responsive interfaces is impressive. He's reliable, detail-focused, and always delivers top-quality work.",
+    name: "Amith Panicker",
+    title: "Head of Growth at Smollan",
   },
 ];
 
